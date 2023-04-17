@@ -1,0 +1,42 @@
+body {
+    background-image: url('https://www.newzealand.com/assets/Tourism-NZ/Other/img-1536046609-8858-14840-p-3B24BE84-FA37-8CEB-F36933A1E9CF72AC-2544003__aWxvdmVrZWxseQo_CropResizeWzEyMDAsNjMwLDc1LCJqcGciXQ.jpg');
+    background-size: cover;
+    background-color:  #add8e650;
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.wrapper {
+    background-color: #fff;
+    padding: 2rem;
+    text-align: center;
+    width: 80%;
+    height: 80%;
+    box-sizing: border-box;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    font-family: "Cinzel", serif;
+}
+
+button {
+    margin-top: 1rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#sentenceDisplay {
+    background-color: #fff;
+    padding: 2rem;
+    text-align: center;
+    width: 80%;
+    height: 80%;
+    box-sizing: border-box;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    font-family: "Cinzel", serif;
+    font-size: 40px;
+    margin-top: 2rem;
+    display: none;
+  }
+  
